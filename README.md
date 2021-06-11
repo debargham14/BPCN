@@ -9,4 +9,5 @@ Bitcoin price is in USD and fetched from Bitcoin Price Index API-coindesk
 4. npm start server.js
 5. See the price change in the console
 
+(Note :- It's mandatory to have redis-server installed in your local machine)
 
